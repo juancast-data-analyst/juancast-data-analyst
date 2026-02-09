@@ -3,7 +3,7 @@ Analista de Datos | Tecnología en Salud | Optimización de Procesos Basada en D
 Soy Analista de Datos con experiencia previa en el sector salud, donde trabajé varios años liderando procesos, asegurando la calidad de datos clínicos y generando insights para mejorar la seguridad del paciente y la eficiencia operativa. Hoy combino ese conocimiento con habilidades técnicas en Python, SQL y visualización para resolver problemas reales con datos.
 
 🧠 Sobre mí
-- 🎓 Formación en Data Analysis – TripleTen
+- 🎓 Formación en Data Analysis – TripleTen 
 - 🏥 Experiencia en salud pública, farmacovigilancia, seguridad del paciente y análisis de procesos clínicos
 - 📊 Interés en proyectos de tecnología en salud, pero también abierto a oportunidades junior en otras industrias
 - 🌱 En constante aprendizaje: finanzas personales, inversiones, senderismo y exploración de nuevos lugares
