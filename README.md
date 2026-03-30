@@ -6,15 +6,15 @@ Soy Analista de Datos con experiencia previa en el sector salud, donde trabajé 
 - 🎓 Formación en Data Analysis – TripleTen 
 - 🏥 Experiencia en salud pública, farmacovigilancia, seguridad del paciente y análisis de procesos clínicos
 - 📊 Interés en proyectos de tecnología en salud, pero también abierto a oportunidades junior en otras industrias
-- 🌱 En constante aprendizaje: finanzas personales, inversiones, senderismo y exploración de nuevos lugares
-- 🛠️ Me gusta mantener todo organizado: desde mis datasets hasta mis finanzas personales
+- 🌱 En constante aprendizaje: finanzas personales, inversiones, salud, senderismo y exploración de nuevos lugares
+- 🛠️ Me gusta mantener todo organizado: desde mis datasets hasta mis tiempo personal
 
-🛠️ Tecnologías y herramientas
+🛠️ Tecnologías y herramientas  
 Lenguajes y análisis:
-- Python · SQL · Pandas · Numpy
-Visualización:
-- Tableau · Power BI · Matplotlib · Seaborn
-Otras habilidades:
+- Python · SQL · Pandas · Numpy   
+  Visualización:  
+- Tableau · Power BI · Matplotlib · Seaborn    
+Otras habilidades:  
 - Limpieza y validación de datos
 - Documentación técnica
 - Análisis exploratorio (EDA)
